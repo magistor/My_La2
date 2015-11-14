@@ -1,0 +1,408 @@
+[13.11.15 12:20:22] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 12:20:25] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 12:29:44] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 12:30:00] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:30:01] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 12:30:04] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 12:30:06] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 12:30:10] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 12:35:06] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 12:35:09] SUCCESS Magistor[268562826] admin_spawn_monster 113
+[13.11.15 12:35:20] SUCCESS Magistor[268562826] -> 113 Warm Hearted Sno admin_show_spawns
+[13.11.15 12:35:24] SUCCESS Magistor[268562826] -> 113 Warm Hearted Sno admin_spawn_monster 114
+[13.11.15 12:35:32] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:35:39] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 12:35:41] SUCCESS Magistor[268562826] admin_spawn_monster 115
+[13.11.15 12:35:51] SUCCESS Magistor[268562826] -> 115 Warm Hearted Sno admin_show_spawns
+[13.11.15 12:35:53] SUCCESS Magistor[268562826] -> 115 Warm Hearted Sno admin_spawn_monster 116
+[13.11.15 12:35:56] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:36:00] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 12:36:02] SUCCESS Magistor[268562826] admin_spawn_monster 116
+[13.11.15 12:36:13] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 12:36:16] SUCCESS Magistor[268562826] admin_spawn_monster 117
+[13.11.15 12:45:55] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_admin
+[13.11.15 12:45:56] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_char_manage
+[13.11.15 12:45:57] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_show_characters 0
+[13.11.15 12:45:58] SUCCESS Magistor[268562826] -> Дима[268560314] admin_character_list Дима
+[13.11.15 12:46:01] SUCCESS Magistor[268562826] -> Дима[268560314] admin_recall_char_menu Дима
+[13.11.15 12:47:08] SUCCESS Magistor[268562826] -> 117 Warm Hearted Sno admin_show_spawns
+[13.11.15 12:47:10] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:47:11] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:47:12] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:47:13] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 12:54:37] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 13:03:58] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:03:59] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:04:05] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:04:07] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:04:21] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:04:22] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:04:26] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:04:28] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:04:37] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:04:38] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:05:14] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:05:15] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:05:21] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:05:22] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:06:01] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:06:03] SUCCESS Magistor[268562826] admin_show_html events/events.htm
+[13.11.15 13:14:54] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 13:15:04] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 13:15:08] SUCCESS Magistor[268562826] admin_spawn_monster 30059
+[13.11.15 13:18:24] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:18:26] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 13:46:37] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:46:40] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 13:46:50] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 13:46:54] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 13:48:28] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 13:48:31] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:01:36] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:01:37] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:01:39] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:01:40] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:02:39] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:02:41] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:02:41] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:02:43] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:03:00] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 14:03:03] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 14:03:05] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:03:06] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:03:08] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:03:11] SUCCESS Magistor[268562826] admin_reload_spawn
+[13.11.15 14:03:25] SUCCESS Magistor[268562826] admin_reload_npc
+[13.11.15 14:03:25] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:03:28] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:03:29] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:03:50] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:03:58] SUCCESS Magistor[268562826] admin_reload_multisell
+[13.11.15 14:04:02] SUCCESS Magistor[268562826] admin_reload_htm
+[13.11.15 14:04:03] SUCCESS Magistor[268562826] admin_reload_shops
+[13.11.15 14:04:07] SUCCESS Magistor[268562826] admin_reload_skills
+[13.11.15 14:04:13] SUCCESS Magistor[268562826] admin_reload_npc
+[13.11.15 14:04:19] SUCCESS Magistor[268562826] admin_reload_spawn
+[13.11.15 14:04:31] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 14:04:31] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 14:04:35] SUCCESS Magistor[268562826] admin_spawn_monster 30059
+[13.11.15 14:04:41] SUCCESS Magistor[268562826] -> 30059 Trisha admin_admin
+[13.11.15 14:04:42] SUCCESS Magistor[268562826] -> 30059 Trisha admin_server admserver.htm
+[13.11.15 14:04:43] SUCCESS Magistor[268562826] -> 30059 Trisha admin_show_html reload.htm
+[13.11.15 14:04:47] SUCCESS Magistor[268562826] -> 30059 Trisha admin_reload_npc
+[13.11.15 14:04:50] SUCCESS Magistor[268562826] -> 30059 Trisha admin_reload_spawn
+[13.11.15 14:06:41] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:06:44] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:06:48] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:06:49] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:06:50] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:06:52] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:07:56] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:07:57] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:08:00] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:08:02] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:09:02] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:09:03] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:09:03] SUCCESS Magistor[268562826] admin_show_html scripts.htm
+[13.11.15 14:09:05] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:09:06] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:09:07] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:09:08] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:19:13] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:19:14] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:19:15] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:19:16] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:20:06] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:20:08] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:20:09] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:20:10] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:23:46] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:23:47] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:23:48] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:23:49] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:29:24] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:29:26] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:31:15] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:31:17] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:31:20] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 14:31:23] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 14:32:44] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:32:46] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:32:57] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:32:59] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:33:01] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:33:05] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:33:10] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:33:11] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:33:14] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:33:19] SUCCESS Magistor[268562826] admin_reload_npc
+[13.11.15 14:33:24] SUCCESS Magistor[268562826] admin_reload_spawn
+[13.11.15 14:35:34] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:35:38] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:35:38] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:35:39] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:37:07] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:37:10] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:37:11] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:37:12] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:37:14] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:37:15] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:37:18] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:37:19] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 14:37:21] SUCCESS Magistor[268562826] admin_show_html gmstore/consumables.htm
+[13.11.15 14:37:27] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 14:37:35] SUCCESS Magistor[268562826] admin_show_html gmstore/scrolls.htm
+[13.11.15 14:37:39] SUCCESS Magistor[268562826] admin_buy 9931
+[13.11.15 14:38:16] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:38:17] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 14:38:18] SUCCESS Magistor[268562826] admin_show_html gmstore/gear/weapons.htm
+[13.11.15 14:38:19] SUCCESS Magistor[268562826] admin_show_html gmstore/gear/weapons/d.htm
+[13.11.15 14:38:28] SUCCESS Magistor[268562826] admin_buy 9012
+[13.11.15 14:43:40] SUCCESS Magistor[268562826] -> 32130 Strategist Lucien admin_admin
+[13.11.15 14:43:42] SUCCESS Magistor[268562826] -> 32130 Strategist Lucien admin_server admserver.htm
+[13.11.15 14:43:43] SUCCESS Magistor[268562826] -> 32130 Strategist Lucien admin_show_html reload.htm
+[13.11.15 14:43:44] SUCCESS Magistor[268562826] -> 32130 Strategist Lucien admin_reload_config
+[13.11.15 14:54:31] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:54:34] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 14:56:21] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:56:22] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 14:56:23] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 14:56:24] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 14:56:27] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 14:56:31] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 14:57:44] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 14:57:46] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 15:01:43] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:01:44] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:01:46] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 15:01:47] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 15:01:51] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 15:01:55] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 15:02:04] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 15:02:08] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 15:02:11] SUCCESS Magistor[268562826] admin_spawn_monster 30059
+[13.11.15 15:02:18] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 15:02:54] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:02:55] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:02:56] SUCCESS Magistor[268562826] admin_server_shutdown
+[13.11.15 15:02:59] SUCCESS Magistor[268562826] admin_server_restart 6
+[13.11.15 15:03:54] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:03:57] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:04:00] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:04:02] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 15:04:03] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:04:04] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:04:08] SUCCESS Magistor[268562826] admin_server_shutdown
+[13.11.15 15:04:09] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:04:10] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:04:11] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 15:04:18] SUCCESS Magistor[268562826] admin_reload_npc
+[13.11.15 15:04:24] SUCCESS Magistor[268562826] admin_reload_spawn
+[13.11.15 15:07:09] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:07:11] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 15:12:16] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 15:12:19] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 15:14:06] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:14:06] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:14:08] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 15:14:09] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 15:14:10] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 15:14:18] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 15:14:21] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 15:15:43] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 15:15:45] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 15:15:57] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 15:16:05] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 15:16:09] SUCCESS Magistor[268562826] admin_spawn_monster 112
+[13.11.15 15:23:42] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_list_spawns
+[13.11.15 15:23:56] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_list_spawns 112
+[13.11.15 16:02:29] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_list_spawns 112
+[13.11.15 16:15:35] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_list_spawns 112
+[13.11.15 16:19:20] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_admin
+[13.11.15 16:19:23] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_invis
+[13.11.15 16:19:24] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_admin
+[13.11.15 16:19:25] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_server admserver.htm
+[13.11.15 16:19:27] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_admin
+[13.11.15 16:19:28] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_show_moves
+[13.11.15 16:19:29] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_show_html teleports/town.htm
+[13.11.15 16:19:31] SUCCESS Magistor[268562826] -> 31230 Louie the Cat admin_show_html teleports/town/giran.htm
+[13.11.15 16:19:31] SUCCESS Magistor[268562826] admin_move_to 82698 148638 -3473
+[13.11.15 16:20:08] SUCCESS Magistor[268562826] -> 31229 Winnie the Cat admin_admin
+[13.11.15 16:20:09] SUCCESS Magistor[268562826] -> 31229 Winnie the Cat admin_show_moves
+[13.11.15 16:20:10] SUCCESS Magistor[268562826] -> 31229 Winnie the Cat admin_show_html teleports/town.htm
+[13.11.15 16:20:11] SUCCESS Magistor[268562826] -> 31229 Winnie the Cat admin_show_html teleports/town/dion.htm
+[13.11.15 16:20:13] SUCCESS Magistor[268562826] admin_move_to 18748 145437 -3132
+[13.11.15 16:20:24] SUCCESS Magistor[268562826] admin_show_spawns
+[13.11.15 16:20:31] SUCCESS Magistor[268562826] admin_spawn_monster 31860
+[13.11.15 16:20:41] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 16:21:26] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:21:27] SUCCESS Magistor[268562826] admin_server admserver.htm
+[13.11.15 16:21:28] SUCCESS Magistor[268562826] admin_show_html reload.htm
+[13.11.15 16:21:30] SUCCESS Magistor[268562826] admin_reload_config
+[13.11.15 16:22:13] SUCCESS Magistor[268562826] -> 31227 Buzz the Cat admin_show_spawns
+[13.11.15 16:22:19] SUCCESS Magistor[268562826] -> 31227 Buzz the Cat admin_spawn_monster 31860
+[13.11.15 16:22:32] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 16:33:45] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:34:51] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:34:54] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 16:37:05] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 16:37:13] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 16:39:01] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:39:02] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:39:03] SUCCESS Magistor[268562826] admin_show_html gmstore/quest.htm
+[13.11.15 16:39:05] SUCCESS Magistor[268562826] admin_buy 300539
+[13.11.15 16:39:23] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:39:24] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:39:26] SUCCESS Magistor[268562826] admin_show_html gmstore/quest.htm
+[13.11.15 16:39:27] SUCCESS Magistor[268562826] admin_buy 300530
+[13.11.15 16:39:42] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:39:43] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:39:52] SUCCESS Magistor[268562826] admin_show_html gmstore/quest.htm
+[13.11.15 16:39:53] SUCCESS Magistor[268562826] admin_buy 300540
+[13.11.15 16:39:59] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:01] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:03] SUCCESS Magistor[268562826] admin_show_html gmstore/quest.htm
+[13.11.15 16:40:04] SUCCESS Magistor[268562826] admin_buy 300541
+[13.11.15 16:40:16] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:18] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:21] SUCCESS Magistor[268562826] admin_show_html gmstore/quest.htm
+[13.11.15 16:40:23] SUCCESS Magistor[268562826] admin_buy 300542
+[13.11.15 16:40:27] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:30] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:36] SUCCESS Magistor[268562826] admin_show_html gmstore/events.htm
+[13.11.15 16:40:38] SUCCESS Magistor[268562826] admin_buy 9977
+[13.11.15 16:40:39] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:41] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:43] SUCCESS Magistor[268562826] admin_show_html gmstore/events.htm
+[13.11.15 16:40:45] SUCCESS Magistor[268562826] admin_buy 9976
+[13.11.15 16:40:47] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:49] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:52] SUCCESS Magistor[268562826] admin_show_html gmstore/events.htm
+[13.11.15 16:40:54] SUCCESS Magistor[268562826] admin_buy 9972
+[13.11.15 16:40:56] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:40:57] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:40:58] SUCCESS Magistor[268562826] admin_show_html gmstore/events.htm
+[13.11.15 16:40:59] SUCCESS Magistor[268562826] admin_buy 9973
+[13.11.15 16:41:02] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:03] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:06] SUCCESS Magistor[268562826] admin_show_html gmstore/books.htm
+[13.11.15 16:41:07] SUCCESS Magistor[268562826] admin_buy 9901
+[13.11.15 16:41:10] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:11] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:13] SUCCESS Magistor[268562826] admin_buy 9903
+[13.11.15 16:41:17] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:18] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:20] SUCCESS Magistor[268562826] admin_buy 9902
+[13.11.15 16:41:23] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:24] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:28] SUCCESS Magistor[268562826] admin_show_html gmstore/books.htm
+[13.11.15 16:41:29] SUCCESS Magistor[268562826] admin_buy 9921
+[13.11.15 16:41:31] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:33] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:34] SUCCESS Magistor[268562826] admin_buy 10004
+[13.11.15 16:41:38] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:39] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:41] SUCCESS Magistor[268562826] admin_show_html gmstore/events.htm
+[13.11.15 16:41:44] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:41:45] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:41:49] SUCCESS Magistor[268562826] admin_buy 9916
+[13.11.15 16:42:59] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:00] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:08] SUCCESS Magistor[268562826] admin_show_html gmstore/craft.htm
+[13.11.15 16:43:12] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:15] SUCCESS Magistor[268562826] admin_show_html gmstore/scrolls.htm
+[13.11.15 16:43:16] SUCCESS Magistor[268562826] admin_buy 9945
+[13.11.15 16:43:18] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:19] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:21] SUCCESS Magistor[268562826] admin_show_html gmstore/consumables.htm
+[13.11.15 16:43:22] SUCCESS Magistor[268562826] admin_buy 9948
+[13.11.15 16:43:24] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:26] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:28] SUCCESS Magistor[268562826] admin_show_html gmstore/consumables.htm
+[13.11.15 16:43:30] SUCCESS Magistor[268562826] admin_buy 9939
+[13.11.15 16:43:31] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:32] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:33] SUCCESS Magistor[268562826] admin_show_html gmstore/consumables.htm
+[13.11.15 16:43:40] SUCCESS Magistor[268562826] admin_buy 9978
+[13.11.15 16:43:42] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:43] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:44] SUCCESS Magistor[268562826] admin_show_html gmstore/hair.htm
+[13.11.15 16:43:45] SUCCESS Magistor[268562826] admin_buy 9919
+[13.11.15 16:43:47] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:48] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:49] SUCCESS Magistor[268562826] admin_show_html gmstore/hair.htm
+[13.11.15 16:43:50] SUCCESS Magistor[268562826] admin_buy 9944
+[13.11.15 16:43:52] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:43:53] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:43:54] SUCCESS Magistor[268562826] admin_show_html gmstore/hair.htm
+[13.11.15 16:43:55] SUCCESS Magistor[268562826] admin_buy 9920
+[13.11.15 16:44:03] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:44:04] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:44:07] SUCCESS Magistor[268562826] admin_buy 9909
+[13.11.15 16:44:10] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:44:12] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:44:13] SUCCESS Magistor[268562826] admin_show_html gmstore/gear/belts.htm
+[13.11.15 16:44:15] SUCCESS Magistor[268562826] admin_buy 9910
+[13.11.15 16:44:16] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:44:18] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:44:23] SUCCESS Magistor[268562826] admin_show_html gmstore/gear/jewels.htm
+[13.11.15 16:44:24] SUCCESS Magistor[268562826] admin_buy 9917
+[13.11.15 16:44:25] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:44:27] SUCCESS Magistor[268562826] admin_gmshop
+[13.11.15 16:45:13] SUCCESS Magistor[268562826] admin_create_item 4037 1
+[13.11.15 16:45:35] SUCCESS Magistor[268562826] admin_create_item 4037 100000
+[13.11.15 16:46:28] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 16:46:30] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 16:48:08] FAIL    Magistor[268562826] admin_force_peti magistor Вы послали Игровому мастеру заявку на беседу.
+[13.11.15 16:48:12] SUCCESS Magistor[268562826] -> Magistor[268562826] admin_force_peti Magistor Вы послали Игровому мастеру заявку на беседу.
+[13.11.15 17:03:32] SUCCESS Magistor[268562826] -> Huper[268566016] admin_add_exp_sp_to_character
+[13.11.15 17:03:35] SUCCESS Magistor[268562826] -> Huper[268566016] admin_setlevel 55
+[13.11.15 17:12:09] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 17:12:11] SUCCESS Magistor[268562826] admin_invis
+[13.11.15 17:19:04] SUCCESS Magistor[268562826] -> 30059 Trisha admin_admin
+[13.11.15 17:19:06] SUCCESS Magistor[268562826] -> 30059 Trisha admin_invis
+[13.11.15 17:43:07] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 18:02:25] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 18:02:32] SUCCESS Magistor[268562826] admin_list_spawns 112
+[13.11.15 18:05:13] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_show_spawns
+[13.11.15 18:05:17] SUCCESS Magistor[268562826] -> 112 Warm Hearted Sno admin_spawn_monster 13296
+[13.11.15 18:05:25] SUCCESS Magistor[268562826] admin_delete
+[13.11.15 18:06:12] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 18:06:15] SUCCESS Magistor[268562826] admin_show_moves
+[13.11.15 18:06:37] SUCCESS Magistor[268562826] admin_move_to 16111 142850 -2707
+[13.11.15 18:07:23] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:07:24] SUCCESS Magistor[268562826] -> 13296 Freya admin_server admserver.htm
+[13.11.15 18:07:26] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html reload.htm
+[13.11.15 18:07:32] SUCCESS Magistor[268562826] -> 13296 Freya admin_reload_spawn
+[13.11.15 18:07:37] SUCCESS Magistor[268562826] -> 13296 Freya admin_server admserver.htm
+[13.11.15 18:07:39] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html scripts.htm
+[13.11.15 18:07:45] SUCCESS Magistor[268562826] -> 13296 Freya admin_sreload items
+[13.11.15 18:07:50] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:07:53] SUCCESS Magistor[268562826] -> 13296 Freya admin_server admserver.htm
+[13.11.15 18:07:55] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html scripts.htm
+[13.11.15 18:08:00] SUCCESS Magistor[268562826] -> 13296 Freya admin_sreload npc
+[13.11.15 18:08:00] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:08:01] SUCCESS Magistor[268562826] -> 13296 Freya admin_server admserver.htm
+[13.11.15 18:08:04] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html scripts.htm
+[13.11.15 18:08:09] SUCCESS Magistor[268562826] -> 13296 Freya admin_server admserver.htm
+[13.11.15 18:08:12] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html events/events.htm
+[13.11.15 18:09:49] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:09:50] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:09:55] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_moves
+[13.11.15 18:09:57] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html teleports/town.htm
+[13.11.15 18:09:58] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_html teleports/town/giran.htm
+[13.11.15 18:09:58] SUCCESS Magistor[268562826] admin_move_to 82698 148638 -3473
+[13.11.15 18:10:27] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 18:10:28] SUCCESS Magistor[268562826] admin_show_moves
+[13.11.15 18:10:29] SUCCESS Magistor[268562826] admin_show_html teleports/town.htm
+[13.11.15 18:10:31] SUCCESS Magistor[268562826] admin_show_html teleports/town/dion.htm
+[13.11.15 18:10:32] SUCCESS Magistor[268562826] admin_move_to 18748 145437 -3132
+[13.11.15 18:14:40] SUCCESS Magistor[268562826] -> 13296 Freya admin_admin
+[13.11.15 18:14:41] SUCCESS Magistor[268562826] -> 13296 Freya admin_show_moves
+[13.11.15 18:15:08] SUCCESS Magistor[268562826] admin_move_to -80712 149896 -3040
+[13.11.15 18:23:34] SUCCESS Magistor[268562826] admin_admin
+[13.11.15 18:23:35] SUCCESS Magistor[268562826] admin_show_moves
+[13.11.15 18:23:36] SUCCESS Magistor[268562826] admin_show_html teleports/town.htm
+[13.11.15 18:23:37] SUCCESS Magistor[268562826] admin_show_html teleports/town/dion.htm
+[13.11.15 18:23:38] SUCCESS Magistor[268562826] admin_move_to 18748 145437 -3132
+[13.11.15 18:32:35] SUCCESS Magistor[268562826] -> 13296 Freya admin_list_spawns 112

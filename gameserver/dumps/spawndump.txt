@@ -1,0 +1,4 @@
+<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+	<point x="18584" y="145432" z="-3136" h="4836" />
+	<npc id="112" /><!--Warm Hearted Sno-->
+</spawn>

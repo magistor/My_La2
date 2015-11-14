@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Exchange -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+
+  <!-- COL -->
+  <item id="1">
+    <ingredient id="4037" count="1"/>
+    <production id="57" count="50000000"/>
+  </item>
+  
+  <!-- GB -->
+  <item id="2">
+    <production id="3470" count="1"/>
+    <ingredient id="57" count="500000000"/>
+  </item>
+  
+   <!-- Adena -->
+  <item id="3">
+    <production id="57" count="490000000"/>
+    <ingredient id="3470" count="1"/>
+  </item>  
+  
+   <!-- Golden Apiga -->
+  <item id="4">
+    <production id="9143" count="1"/>
+    <ingredient id="4037" count="33"/>
+  </item>
+  
+  </list>

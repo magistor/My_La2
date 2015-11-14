@@ -1,0 +1,583 @@
+[14.11.15 00:23:05] SUCCESS Admin[268486468] admin_admin
+[14.11.15 00:23:19] SUCCESS Admin[268486468] -> Admin[268486468] admin_itemcreate
+[14.11.15 00:23:27] SUCCESS Admin[268486468] -> Admin[268486468] admin_create_item 57 10000000000
+[14.11.15 00:26:22] SUCCESS Admin[268486468] -> Admin[268486468] admin_admin
+[14.11.15 00:26:30] SUCCESS Admin[268486468] -> Admin[268486468] admin_itemcreate
+[14.11.15 00:26:43] SUCCESS Admin[268486468] -> Admin[268486468] admin_create_item 4037 1000000
+[14.11.15 00:27:36] SUCCESS Admin[268486468] -> Admin[268486468] admin_admin
+[14.11.15 00:27:55] SUCCESS Admin[268486468] -> Admin[268486468] admin_itemcreate
+[14.11.15 00:28:11] SUCCESS Admin[268486468] -> Admin[268486468] admin_create_item 4037 10000000000
+[14.11.15 00:29:40] SUCCESS Admin[268486468] -> Admin[268486468] admin_admin
+[14.11.15 00:29:41] SUCCESS Admin[268486468] -> Admin[268486468] admin_show_html events/events.htm
+[14.11.15 00:35:38] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 00:35:40] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_char_manage
+[14.11.15 00:35:41] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_characters 0
+[14.11.15 00:35:42] SUCCESS Admin[268486468] -> Хупер[268486905] admin_character_list Хупер
+[14.11.15 00:35:45] SUCCESS Admin[268486468] -> Хупер[268486905] admin_recall_char_menu Хупер
+[14.11.15 00:51:27] SUCCESS Admin[268486468] admin_admin
+[14.11.15 00:51:29] SUCCESS Admin[268486468] admin_show_html events/events.htm
+[14.11.15 00:52:32] SUCCESS Admin[268486468] -> 32091 Omega's Cat admin_admin
+[14.11.15 00:52:33] SUCCESS Admin[268486468] -> 32091 Omega's Cat admin_show_html events/events.htm
+[14.11.15 00:52:49] SUCCESS Admin[268486468] -> 13296 Freya admin_admin
+[14.11.15 00:52:50] SUCCESS Admin[268486468] -> 13296 Freya admin_show_html events/events.htm
+[14.11.15 00:53:35] SUCCESS Admin[268486468] -> 32599 Master Yogi admin_admin
+[14.11.15 00:53:36] SUCCESS Admin[268486468] -> 32599 Master Yogi admin_show_html events/events.htm
+[14.11.15 00:53:42] SUCCESS Admin[268486468] admin_admin
+[14.11.15 00:53:43] SUCCESS Admin[268486468] admin_show_html events/events.htm
+[14.11.15 00:54:20] SUCCESS Admin[268486468] -> 109 Jack Sage admin_admin
+[14.11.15 00:54:21] SUCCESS Admin[268486468] -> 109 Jack Sage admin_show_html events/events.htm
+[14.11.15 00:54:25] SUCCESS Admin[268486468] -> 109 Jack Sage admin_admin
+[14.11.15 00:54:26] SUCCESS Admin[268486468] -> 109 Jack Sage admin_show_html events/events.htm
+[14.11.15 00:55:07] SUCCESS Admin[268486468] admin_admin
+[14.11.15 00:55:08] SUCCESS Admin[268486468] admin_show_html events/events.htm
+[14.11.15 00:56:54] SUCCESS Admin[268486468] admin_admin
+[14.11.15 00:58:43] SUCCESS Admin[268486468] -> Admin[268486468] admin_admin
+[14.11.15 00:58:50] SUCCESS Admin[268486468] -> Admin[268486468] admin_itemcreate
+[14.11.15 00:59:02] SUCCESS Admin[268486468] -> Admin[268486468] admin_create_item 9143 100000000000
+[14.11.15 01:02:19] SUCCESS Admin[268486468] admin_admin
+[14.11.15 01:02:21] SUCCESS Admin[268486468] admin_invis
+[14.11.15 01:19:07] SUCCESS Admin[268486468] -> 20062 Tumran Bugbear admin_admin
+[14.11.15 01:19:12] SUCCESS Admin[268486468] admin_invis
+[14.11.15 01:24:15] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:24:20] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:25:46] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:25:48] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:26:49] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:26:52] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:27:55] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:27:57] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:31:27] SUCCESS Admin[268486468] admin_admin
+[14.11.15 01:31:29] SUCCESS Admin[268486468] admin_char_manage
+[14.11.15 01:31:31] SUCCESS Admin[268486468] admin_show_characters 0
+[14.11.15 01:31:32] SUCCESS Admin[268486468] -> Дима[268487151] admin_character_list Дима
+[14.11.15 01:31:34] SUCCESS Admin[268486468] -> Дима[268487151] admin_recall_char_menu Дима
+[14.11.15 01:34:10] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:34:12] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:36:45] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:36:48] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:38:06] SUCCESS Admin[268486468] admin_admin
+[14.11.15 01:38:08] SUCCESS Admin[268486468] admin_server admserver.htm
+[14.11.15 01:38:09] SUCCESS Admin[268486468] admin_show_html reload.htm
+[14.11.15 01:38:12] SUCCESS Admin[268486468] admin_reload_config
+[14.11.15 01:38:30] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:38:32] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:39:54] SUCCESS Admin[268486468] -> Admin[268486468] admin_add_exp_sp_to_character
+[14.11.15 01:39:57] SUCCESS Admin[268486468] -> Admin[268486468] admin_setlevel 20
+[14.11.15 01:44:22] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:44:51] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:44:53] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:44:54] SUCCESS Admin[268486468] -> 30059 Trisha admin_server_shutdown
+[14.11.15 01:44:56] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:44:57] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:44:58] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html reload.htm
+[14.11.15 01:45:02] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:45:03] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html scripts.htm
+[14.11.15 01:45:08] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:45:09] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html scripts.htm
+[14.11.15 01:45:12] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:45:16] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:45:18] SUCCESS Admin[268486468] -> 30059 Trisha admin_char_manage
+[14.11.15 01:45:24] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html events/events.htm
+[14.11.15 01:45:32] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html events/events.htm
+[14.11.15 01:45:33] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:45:36] SUCCESS Admin[268486468] -> 30059 Trisha admin_list_announcements
+[14.11.15 01:45:46] SUCCESS Admin[268486468] -> 30059 Trisha admin_del_announcement 0
+[14.11.15 01:45:47] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:46:09] SUCCESS Admin[268486468] -> 30059 Trisha admin_list_spawns
+[14.11.15 01:46:12] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:46:28] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html attribute.htm
+[14.11.15 01:46:38] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:46:53] SUCCESS Admin[268486468] -> 30059 Trisha admin_gmshop
+[14.11.15 01:48:12] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:48:14] SUCCESS Admin[268486468] -> 30059 Trisha admin_gmshop
+[14.11.15 01:48:35] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html gmstore/events.htm
+[14.11.15 01:48:37] SUCCESS Admin[268486468] -> 30059 Trisha admin_buy 9977
+[14.11.15 01:54:03] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 01:54:04] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 01:54:05] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html reload.htm
+[14.11.15 01:54:07] SUCCESS Admin[268486468] -> 30059 Trisha admin_reload_config
+[14.11.15 01:57:07] SUCCESS Admin[268486468] admin_admin
+[14.11.15 01:57:08] SUCCESS Admin[268486468] admin_show_moves
+[14.11.15 01:57:09] SUCCESS Admin[268486468] admin_show_html teleports/town.htm
+[14.11.15 01:57:10] SUCCESS Admin[268486468] admin_show_html teleports/town/giran.htm
+[14.11.15 01:57:11] SUCCESS Admin[268486468] admin_move_to 82698 148638 -3473
+[14.11.15 02:00:43] SUCCESS Admin[268486468] admin_admin
+[14.11.15 02:00:45] SUCCESS Admin[268486468] admin_show_moves
+[14.11.15 02:00:46] SUCCESS Admin[268486468] admin_show_html teleports/town.htm
+[14.11.15 02:00:47] SUCCESS Admin[268486468] admin_show_html teleports/town/dion.htm
+[14.11.15 02:00:48] SUCCESS Admin[268486468] admin_move_to 18748 145437 -3132
+[14.11.15 02:01:24] FAIL    Admin[268486468] admin_moders
+[14.11.15 02:01:43] FAIL    Admin[268486468] admin_moders
+[14.11.15 02:04:24] SUCCESS Admin[268486468] admin_admin
+[14.11.15 02:04:26] SUCCESS Admin[268486468] admin_char_manage
+[14.11.15 02:04:27] SUCCESS Admin[268486468] admin_show_characters 0
+[14.11.15 02:04:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_character_list Тест
+[14.11.15 02:04:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_recall_char_menu Тест
+[14.11.15 02:05:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_add_exp_sp_to_character
+[14.11.15 02:05:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_setlevel 52
+[14.11.15 02:08:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_geo_type
+[14.11.15 02:11:27] FAIL    Admin[268486468] -> Тест[268487828] admin_repair
+[14.11.15 02:11:28] FAIL    Admin[268486468] -> Тест[268487828] admin_repair
+[14.11.15 02:11:46] SUCCESS Admin[268486468] -> Тест[268487828] admin_repair Admin
+[14.11.15 02:11:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_repair Admin
+[14.11.15 02:12:10] SUCCESS Admin[268486468] -> Тест[268487828] admin_server
+[14.11.15 02:13:27] SUCCESS Admin[268486468] -> Тест[268487828] admin_buff
+[14.11.15 02:13:40] SUCCESS Admin[268486468] -> Тест[268487828] admin_buff
+[14.11.15 02:13:59] SUCCESS Admin[268486468] -> Admin[268486468] admin_buff
+[14.11.15 02:15:02] SUCCESS Admin[268486468] -> Admin[268486468] admin_show_spawns
+[14.11.15 02:15:46] SUCCESS Admin[268486468] admin_delete
+[14.11.15 02:16:01] FAIL    Admin[268486468] admin_setai 112
+[14.11.15 02:16:25] FAIL    Admin[268486468] -> 112 Warm Hearted Sno admin_setai 112
+[14.11.15 02:17:39] SUCCESS Admin[268486468] -> 112 Warm Hearted Sno admin_dumpspawn 112
+[14.11.15 02:24:19] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 02:24:33] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 02:24:43] SUCCESS Admin[268486468] admin_delete
+[14.11.15 02:24:50] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 02:25:54] SUCCESS Admin[268486468] admin_pos
+[14.11.15 02:27:52] SUCCESS Admin[268486468] admin_show_spawns
+[14.11.15 02:27:55] SUCCESS Admin[268486468] admin_spawn_monster 112
+[14.11.15 02:28:19] SUCCESS Admin[268486468] -> 112 Warm Hearted Sno admin_recall_npc
+[14.11.15 02:29:20] SUCCESS Admin[268486468] -> 112 Warm Hearted Sno admin_recall_npc
+[14.11.15 02:29:26] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 02:29:36] FAIL    Admin[268486468] -> Тест[268487828] admin_setheading
+[14.11.15 02:29:46] SUCCESS Admin[268486468] -> Тест[268487828] admin_recall_npc
+[14.11.15 02:31:29] SUCCESS Admin[268486468] -> 13296 Freya admin_admin
+[14.11.15 02:31:31] SUCCESS Admin[268486468] -> 13296 Freya admin_show_html events/events.htm
+[14.11.15 02:31:53] SUCCESS Admin[268486468] -> 13296 Freya admin_admin
+[14.11.15 02:31:58] SUCCESS Admin[268486468] -> 13296 Freya admin_show_html events/events.htm
+[14.11.15 02:32:21] SUCCESS Admin[268486468] admin_admin
+[14.11.15 02:32:23] SUCCESS Admin[268486468] admin_show_moves
+[14.11.15 02:32:24] SUCCESS Admin[268486468] admin_show_html teleports/town.htm
+[14.11.15 02:32:24] SUCCESS Admin[268486468] admin_show_html teleports/town/giran.htm
+[14.11.15 02:32:25] SUCCESS Admin[268486468] admin_move_to 82698 148638 -3473
+[14.11.15 02:32:57] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 02:33:09] SUCCESS Admin[268486468] admin_admin
+[14.11.15 02:33:10] SUCCESS Admin[268486468] admin_show_moves
+[14.11.15 02:33:11] SUCCESS Admin[268486468] admin_show_html teleports/town.htm
+[14.11.15 02:33:13] SUCCESS Admin[268486468] admin_show_html teleports/town/dion.htm
+[14.11.15 02:33:14] SUCCESS Admin[268486468] admin_move_to 18748 145437 -3132
+[14.11.15 02:33:30] SUCCESS Admin[268486468] admin_delete
+[14.11.15 02:33:38] SUCCESS Admin[268486468] admin_admin
+[14.11.15 02:33:39] SUCCESS Admin[268486468] admin_server admserver.htm
+[14.11.15 02:33:42] SUCCESS Admin[268486468] admin_server_shutdown
+[14.11.15 02:33:46] SUCCESS Admin[268486468] admin_server_shutdown 10
+[14.11.15 15:37:33] SUCCESS Admin[268486468] admin_admin
+[14.11.15 15:37:36] SUCCESS Admin[268486468] admin_invis
+[14.11.15 15:38:20] SUCCESS Admin[268486468] -> 112 Warm Hearted Sno admin_recall_npc
+[14.11.15 15:38:24] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 15:38:32] SUCCESS Admin[268486468] admin_setheading
+[14.11.15 15:39:16] SUCCESS Admin[268486468] admin_delete
+[14.11.15 15:39:19] SUCCESS Admin[268486468] admin_admin
+[14.11.15 15:40:06] SUCCESS Admin[268486468] admin_show_html events/events.htm
+[14.11.15 15:40:25] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_spawns
+[14.11.15 15:40:32] SUCCESS Admin[268486468] admin_spawn_monster 31863
+[14.11.15 15:40:42] SUCCESS Admin[268486468] admin_delete
+[14.11.15 15:49:59] SUCCESS Admin[268486468] -> 30059 Trisha admin_admin
+[14.11.15 15:50:02] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 15:50:04] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html reload.htm
+[14.11.15 15:50:06] SUCCESS Admin[268486468] -> 30059 Trisha admin_reload_config
+[14.11.15 15:50:07] SUCCESS Admin[268486468] -> 30059 Trisha admin_server admserver.htm
+[14.11.15 15:50:08] SUCCESS Admin[268486468] -> 30059 Trisha admin_show_html scripts.htm
+[14.11.15 15:50:20] SUCCESS Admin[268486468] -> 30059 Trisha admin_sreload all
+[14.11.15 16:18:12] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:18:20] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:18:22] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/quest.htm
+[14.11.15 16:18:23] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 300539
+[14.11.15 16:18:33] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:18:35] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:18:36] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/quest.htm
+[14.11.15 16:18:37] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 300530
+[14.11.15 16:18:44] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:18:46] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:18:49] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/quest.htm
+[14.11.15 16:18:50] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 300540
+[14.11.15 16:18:52] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:18:54] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:18:55] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/quest.htm
+[14.11.15 16:18:56] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 300541
+[14.11.15 16:19:10] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:19:12] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:19:13] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/quest.htm
+[14.11.15 16:19:14] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 300542
+[14.11.15 16:19:44] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:19:45] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:20:00] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/consumables.htm
+[14.11.15 16:20:03] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_buy 9948
+[14.11.15 16:20:06] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:20:07] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 16:23:46] SUCCESS Admin[268486468] admin_admin
+[14.11.15 16:23:48] SUCCESS Admin[268486468] admin_invis
+[14.11.15 16:24:50] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:24:51] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 16:24:55] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html reload.htm
+[14.11.15 16:24:56] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_reload_htm
+[14.11.15 16:25:03] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 16:25:04] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 16:25:05] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html reload.htm
+[14.11.15 16:25:09] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_reload_config
+[14.11.15 16:27:18] SUCCESS Admin[268486468] admin_admin
+[14.11.15 16:27:24] SUCCESS Admin[268486468] admin_close
+[14.11.15 16:27:25] SUCCESS Admin[268486468] admin_admin
+[14.11.15 16:27:28] SUCCESS Admin[268486468] admin_invis
+[14.11.15 16:48:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_add_exp_sp_to_character
+[14.11.15 16:48:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_setlevel 20
+[14.11.15 16:48:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_add_exp_sp_to_character
+[14.11.15 16:48:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_setlevel 40
+[14.11.15 16:49:53] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html setclass.htm
+[14.11.15 16:49:56] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html classes/setclass_elf.htm
+[14.11.15 16:50:22] SUCCESS Admin[268486468] -> Тест[268487828] admin_setclass 27
+[14.11.15 16:50:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_skills
+[14.11.15 16:50:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_get_skills
+[14.11.15 16:50:32] SUCCESS Admin[268486468] -> Тест[268487828] admin_remove_skills
+[14.11.15 16:50:34] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_skills
+[14.11.15 16:50:37] SUCCESS Admin[268486468] -> Тест[268487828] admin_reset_skills
+[14.11.15 16:54:45] SUCCESS Admin[268486468] admin_admin
+[14.11.15 16:54:46] SUCCESS Admin[268486468] admin_char_manage
+[14.11.15 16:54:46] SUCCESS Admin[268486468] admin_show_characters 0
+[14.11.15 16:54:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_character_list Тест
+[14.11.15 16:54:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_recall_char_menu Тест
+[14.11.15 16:57:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_add_exp_sp_to_character
+[14.11.15 16:57:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_setlevel 20
+[14.11.15 17:05:14] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:05:18] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_itemcreate
+[14.11.15 17:05:28] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_create_item 5556 20
+[14.11.15 17:05:37] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_create_item 5557 20
+[14.11.15 17:05:47] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_create_item 5558 20
+[14.11.15 17:06:02] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_create_item 5559 5
+[14.11.15 17:10:57] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:11:04] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:12:01] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:12:03] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:12:06] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:12:07] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 17:12:09] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html reload.htm
+[14.11.15 17:12:10] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_reload_config
+[14.11.15 17:12:12] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:12:14] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:12:19] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:12:20] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 17:12:21] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html scripts.htm
+[14.11.15 17:12:31] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_sreload all
+[14.11.15 17:12:31] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:12:43] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:13:10] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/gear/bracelets.htm
+[14.11.15 17:13:12] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:13:13] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:13:14] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 17:13:15] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html reload.htm
+[14.11.15 17:13:16] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_reload_config
+[14.11.15 17:13:18] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 17:13:19] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html reload.htm
+[14.11.15 17:13:20] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_reload_config
+[14.11.15 17:13:21] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:13:22] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_server admserver.htm
+[14.11.15 17:13:23] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html scripts.htm
+[14.11.15 17:13:30] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_sreload all
+[14.11.15 17:13:30] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:13:44] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:13:47] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:13:51] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:13:54] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:13:55] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/gear/armor.htm
+[14.11.15 17:13:56] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:13:58] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/gear/bracelets.htm
+[14.11.15 17:13:58] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:14:00] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/gear/jewels.htm
+[14.11.15 17:14:01] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:14:14] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_html gmstore/books.htm
+[14.11.15 17:14:18] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_gmshop
+[14.11.15 17:15:21] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_admin
+[14.11.15 17:15:22] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_char_manage
+[14.11.15 17:15:22] SUCCESS Admin[268486468] -> 31863 Santa Trainee admin_show_characters 0
+[14.11.15 17:15:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_character_list Тест
+[14.11.15 17:15:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_recall_char_menu Тест
+[14.11.15 17:16:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_add_exp_sp_to_character
+[14.11.15 17:16:09] SUCCESS Admin[268486468] -> Тест[268487828] admin_setlevel 30
+[14.11.15 17:23:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:23:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:24:10] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:24:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:24:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:24:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:24:34] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:24:36] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:24:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:24:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_view_petitions
+[14.11.15 17:25:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:25:01] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:25:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:25:46] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:26:07] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:26:08] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:26:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:26:20] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:26:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:26:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:27:01] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:27:02] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:27:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:27:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:27:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:27:31] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:27:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:27:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:28:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:28:20] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:28:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:28:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:28:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:28:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:28:56] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:28:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:29:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:29:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:29:25] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:29:27] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:30:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:30:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:30:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:30:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_view_petitions
+[14.11.15 17:30:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:30:45] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:30:52] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:30:53] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:31:04] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:31:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:31:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:31:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:32:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/bracelets.htm
+[14.11.15 17:32:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:33:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/jewels.htm
+[14.11.15 17:34:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9961
+[14.11.15 17:34:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:34:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:34:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9913
+[14.11.15 17:34:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:34:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:35:41] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:35:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:35:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/belts.htm
+[14.11.15 17:35:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9910
+[14.11.15 17:35:56] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:35:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:36:03] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/belts.htm
+[14.11.15 17:36:04] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9911
+[14.11.15 17:36:10] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:36:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:36:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/belts.htm
+[14.11.15 17:36:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9912
+[14.11.15 17:36:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:36:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:36:20] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/belts.htm
+[14.11.15 17:36:21] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9910
+[14.11.15 17:37:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:37:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:37:37] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/belts.htm
+[14.11.15 17:37:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9910
+[14.11.15 17:37:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:38:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:38:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9909
+[14.11.15 17:38:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:38:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:38:31] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/hair.htm
+[14.11.15 17:38:32] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9919
+[14.11.15 17:38:55] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:38:56] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:38:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/hair.htm
+[14.11.15 17:38:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9944
+[14.11.15 17:39:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:39:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:39:36] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:39:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:39:41] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/territory.htm
+[14.11.15 17:39:45] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9990
+[14.11.15 17:39:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:39:50] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:39:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/territory.htm
+[14.11.15 17:39:53] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9992
+[14.11.15 17:39:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:39:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:40:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/castles.htm
+[14.11.15 17:40:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9993
+[14.11.15 17:40:10] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:40:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:40:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/castles.htm
+[14.11.15 17:40:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9994
+[14.11.15 17:40:22] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:40:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:40:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/fortress.htm
+[14.11.15 17:40:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9989
+[14.11.15 17:40:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:41:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:41:03] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/consumables.htm
+[14.11.15 17:41:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:41:39] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:41:40] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:41:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/scrolls.htm
+[14.11.15 17:41:44] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9930
+[14.11.15 17:41:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:41:50] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:41:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/scrolls.htm
+[14.11.15 17:41:52] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9931
+[14.11.15 17:41:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:41:55] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:09] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/craft.htm
+[14.11.15 17:42:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9942
+[14.11.15 17:42:14] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/craft.htm
+[14.11.15 17:42:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9943
+[14.11.15 17:42:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:22] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/craft.htm
+[14.11.15 17:42:25] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9939
+[14.11.15 17:42:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:39] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:40] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:47] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/pets.htm
+[14.11.15 17:42:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9918
+[14.11.15 17:42:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:53] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:42:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/pets.htm
+[14.11.15 17:42:55] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9932
+[14.11.15 17:42:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:42:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:43:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/quest.htm
+[14.11.15 17:43:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 300539
+[14.11.15 17:43:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:43:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:44:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:44:02] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:44:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9916
+[14.11.15 17:44:16] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:44:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:44:50] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:44:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:44:53] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/events.htm
+[14.11.15 17:44:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9977
+[14.11.15 17:45:01] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:45:02] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:45:18] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:45:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:45:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/events.htm
+[14.11.15 17:45:25] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9972
+[14.11.15 17:45:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:45:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:45:31] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/events.htm
+[14.11.15 17:45:34] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9972
+[14.11.15 17:45:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:45:40] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:45:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 10004
+[14.11.15 17:45:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:45:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:46:04] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9902
+[14.11.15 17:46:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:46:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:46:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9903
+[14.11.15 17:46:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:46:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:46:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/books.htm
+[14.11.15 17:46:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9901
+[14.11.15 17:46:32] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:46:33] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:46:34] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/books.htm
+[14.11.15 17:46:35] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9921
+[14.11.15 17:46:45] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:46:47] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:47:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:47:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:47:36] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:47:37] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:47:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:47:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:47:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:48:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:48:08] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:48:32] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:48:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:50:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:50:46] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:51:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:51:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:52:13] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:52:14] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:52:21] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:52:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:52:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:52:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:52:27] SUCCESS Admin[268486468] -> Тест[268487828] admin_view_petitions
+[14.11.15 17:52:29] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:52:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:52:31] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:52:33] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:53:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:53:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:53:08] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:54:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:54:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:54:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:54:21] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:54:22] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:54:23] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:54:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:54:27] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:54:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:55:25] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:55:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:56:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:56:17] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:56:57] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:56:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:57:11] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:57:12] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:57:39] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:57:41] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:57:59] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9974
+[14.11.15 17:58:52] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:58:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:58:55] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:59:05] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:59:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:59:15] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9980
+[14.11.15 17:59:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:59:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:59:28] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 17:59:30] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9925
+[14.11.15 17:59:45] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 17:59:48] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 17:59:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:00:51] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:00:52] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:00:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9975
+[14.11.15 18:00:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 18:01:00] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:01:02] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:02:26] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9980
+[14.11.15 18:02:40] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 18:02:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:02:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:03:02] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 9925
+[14.11.15 18:03:21] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 18:03:22] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:03:24] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:03:33] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 11004
+[14.11.15 18:03:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 18:03:42] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:03:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:03:49] SUCCESS Admin[268486468] -> Тест[268487828] admin_buy 11005
+[14.11.15 18:03:54] SUCCESS Admin[268486468] -> Тест[268487828] admin_admin
+[14.11.15 18:03:56] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:03:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:04:37] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:04:38] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:04:58] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:05:01] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:05:39] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:05:43] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:06:06] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:06:08] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:06:19] SUCCESS Admin[268486468] -> Тест[268487828] admin_gmshop
+[14.11.15 18:06:20] SUCCESS Admin[268486468] -> Тест[268487828] admin_show_html gmstore/gear/weapons.htm
+[14.11.15 18:11:46] SUCCESS Admin[268486468] admin_admin
+[14.11.15 18:11:48] SUCCESS Admin[268486468] admin_invis
