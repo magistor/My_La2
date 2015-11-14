@@ -238,3 +238,51 @@
 [14.11.15 18:11:04] Loaded Event: Transport [state: deactivated]
 [14.11.15 18:11:29] Start Viktorina: Sat Nov 14 22:01:00 MSK 2015
 [14.11.15 18:11:29] Stop Viktorina: Sun Nov 15 00:01:00 MSK 2015
+[14.11.15 19:12:24] Loaded Event: Apil Fool's Day [state: activated]
+[14.11.15 19:12:24] Loaded Event: Cataclizm Aden
+[14.11.15 19:12:24] Loaded Event: Cataclizm Dion
+[14.11.15 19:12:24] Loaded Event: Cataclizm Giran
+[14.11.15 19:12:24] Loaded Event: Cataclizm Gludio
+[14.11.15 19:12:24] Loaded Event: Cataclizm Goddart
+[14.11.15 19:12:24] Loaded Event: Cataclizm Heine
+[14.11.15 19:12:24] Loaded Event: Cataclizm Oren
+[14.11.15 19:12:24] Loaded Event: Cataclizm Rune
+[14.11.15 19:12:24] Loaded Event: Cataclizm Schuttgard
+[14.11.15 19:12:24] Loaded ChampionDropItems: ChampionDropItems [state: activated]
+[14.11.15 19:12:24] Loaded Event: Christmas [state: activated]
+[14.11.15 19:12:24] Loaded Event: Coffer of Shadows [state: deactivated]
+[14.11.15 19:12:24] Loaded CustomDropItems: CustomDropItems [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: DeathMatch
+[14.11.15 19:12:24] Loaded Event: DestructionOfFlag
+[14.11.15 19:12:24] Loaded Event: Fight Club
+[14.11.15 19:12:24] Loaded Event: Freya Celebration [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Gift Of Vitality [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: GvG
+[14.11.15 19:12:24] Loaded Event: Hitman
+[14.11.15 19:12:24] Loaded Event: Hunting for Sharks [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: L2Coins [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Luck NPC
+[14.11.15 19:12:24] Loaded Event: March 8 [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Master of Enchanting [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: PcCafePointsExchange [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: SavingSnowman [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: TVT Arena 1 [state: started]
+[14.11.15 19:12:24] Loaded Event: TVT Arena 2 [state: started]
+[14.11.15 19:12:24] Loaded Event: TVT Arena 3 [state: started]
+[14.11.15 19:12:24] Loaded Event: TVT Arena 4 [state: started]
+[14.11.15 19:12:24] Loaded Event: TVT Arena 5 [state: started]
+[14.11.15 19:12:24] Loaded Event: The Fall Harvest [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: The Flow Of The Horror [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Trick of Trnasmutation [state: activated]
+[14.11.15 19:12:24] Loaded Event: TvT
+[14.11.15 19:12:24] Loaded Event: Viktorina
+[14.11.15 19:12:24] Loaded Event: Bounty Hunters Guild
+[14.11.15 19:12:24] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Change of Heart[state: deactivated]
+[14.11.15 19:12:24] Loaded Event: null [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: l2day [state: deactivated]
+[14.11.15 19:12:24] Loaded Event: Last Hero
+[14.11.15 19:12:24] Loaded Event: Transport [state: deactivated]
+[14.11.15 19:12:49] Start Viktorina: Sat Nov 14 22:01:00 MSK 2015
+[14.11.15 19:12:49] Stop Viktorina: Sun Nov 15 00:01:00 MSK 2015
+[14.11.15 19:45:00] DestructionOfFlag: is not Active

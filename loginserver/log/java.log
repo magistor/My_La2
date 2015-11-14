@@ -1,9 +1,9 @@
-[14.11.15 18:10:23:896]  INFO loginserver.oOOO: Loaded 127 server names
-[14.11.15 18:10:24:038]  INFO loginserver.oOOO: Loaded whirlpool2 as default crypt.
-[14.11.15 18:10:24:707]  INFO loginserver.oOOO: Cached 10 KeyPairs for RSA communication
-[14.11.15 18:10:24:714]  INFO loginserver.oOOO: Stored 20 keys for Blowfish communication
-[14.11.15 18:10:24:731]  INFO loginserver.C: Loaded 1 registered GameServer(s).
-[14.11.15 18:10:24:837]  INFO loginserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
-[14.11.15 18:10:24:838]  INFO loginserver.AuthServer: Listening for clients on *:2106
-[14.11.15 18:11:15:446]  INFO new.class: Trying to register gameserver: 1 [127.0.0.1]
-[14.11.15 18:11:15:488]  INFO new.class: Gameserver registration successful.
+[14.11.15 19:12:01:183]  INFO loginserver.oOOO: Loaded 127 server names
+[14.11.15 19:12:01:303]  INFO loginserver.oOOO: Loaded whirlpool2 as default crypt.
+[14.11.15 19:12:01:921]  INFO loginserver.oOOO: Cached 10 KeyPairs for RSA communication
+[14.11.15 19:12:01:928]  INFO loginserver.oOOO: Stored 20 keys for Blowfish communication
+[14.11.15 19:12:01:941]  INFO loginserver.C: Loaded 1 registered GameServer(s).
+[14.11.15 19:12:02:038]  INFO loginserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
+[14.11.15 19:12:02:039]  INFO loginserver.AuthServer: Listening for clients on *:2106
+[14.11.15 19:12:34:217]  INFO new.class: Trying to register gameserver: 1 [127.0.0.1]
+[14.11.15 19:12:34:220]  INFO new.class: Gameserver registration successful.

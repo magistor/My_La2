@@ -1,11 +1,12 @@
 <title>Админка</title>
-<center><table width=275>
+<table width=260>
 <tr>
-<td><button value="Главная" action="bypass -h admin_admin" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Ивенты" action="bypass -h admin_show_html events/events.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Персонажи" action="bypass -h admin_char_manage" width=70 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Сервер" action="bypass -h admin_server admserver.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-</tr></table></center><br>
+	<td><button value="Главная" action="bypass -h admin_admin" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Ивенты" action="bypass -h admin_show_html events/events.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Персонажи" action="bypass -h admin_char_manage" width=70 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Сервер" action="bypass -h admin_server admserver.htm" width=65 height=25 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
 <center><font color="LEVEL">Быстрые объявления:</font></center><br1>
 <center>
 <table width=260 height=45 border=0>
@@ -16,7 +17,7 @@
 <center>
 <table width=260 border=0>
 <tr>
-<td><button value="Анонсировать" action="bypass -h admin_announce $menu_command" width=90 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td><button value="Анонсы" action="bypass -h admin_announce $menu_command" width=90 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
 <td><button value="Опубликовать" action="bypass -h admin_announce_announcements" width=92 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
 <td><button value="Меню" action="bypass -h admin_list_announcements" width=70 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
 </tr>
@@ -83,13 +84,18 @@
 <td><button value="Забанить" action="bypass -h admin_ban $menu_command" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
 </tr>
 <tr>
-<td><button value="Карма" action="bypass -h admin_setkarma $menu_command" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Инвиз" action="bypass -h admin_invis" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Инвул" action="bypass -h admin_invul" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
-<td><button value="Открыть" action="bypass -h admin_open" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Карма" action="bypass -h admin_setkarma $menu_command" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Инвиз" action="bypass -h admin_invis" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Инвул" action="bypass -h admin_invul" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Позиция" action="bypass -h admin_pos" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
 </tr>
 <tr>
-<td><button value="Закрыть" action="bypass -h admin_close" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<center>
+	<td><button value="Закрыть" action="bypass -h admin_close" width=60 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Открыть" action="bypass -h admin_open" width=60 height=21 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Направь" action="bypass -h admin_setheading" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+	<td><button value="Тянуть" action="bypass -h admin_recall_npc" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</center>
 </tr>
 </table>
 </center>
