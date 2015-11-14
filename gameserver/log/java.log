@@ -593,3 +593,19 @@ java.lang.InstantiationException
 [14.11.15 19:50:24:448]  INFO threading.RunnableImpl: FourSepulchersManager: Entry time: Sat Nov 14 19:55:24 MSK 2015
 [14.11.15 20:00:00:033]  INFO threading.RunnableImpl: Manor System: Under maintenance mode started
 [14.11.15 20:00:00:061]  INFO instancemanager.SpawnManager: SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[14.11.15 20:06:00:032]  INFO threading.RunnableImpl: Manor System: Next period started
+[14.11.15 20:12:25:509]  INFO services.Bash: Service: Bash - RSS data download completed.
+[14.11.15 20:12:25:512]  INFO services.Bash: Service: Bash - RSS data parsed: loaded 100 quotes.
+[14.11.15 20:12:34:002]  INFO instancemanager.SpawnManager: SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[14.11.15 20:12:34:003]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[14.11.15 20:12:34:004]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[14.11.15 20:12:34:004]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[14.11.15 20:12:34:004]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[14.11.15 20:12:34:004]  INFO instancemanager.SpawnManager: SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[14.11.15 20:12:34:004]  INFO instancemanager.SpawnManager: SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
